@@ -11,9 +11,11 @@ Centro de formacion GF, Valladolid
 
 
 Hemos colaborado en el proyecto:
--Pedro
--Lucas 
--Ana
+- Pedro
+- Lucas 
+- Ana
+
+---
 Esta modificacion nos sirve para aprender markdown  la # es <h1><h1/> de html.
 
 
