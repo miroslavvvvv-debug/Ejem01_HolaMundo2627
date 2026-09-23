@@ -21,7 +21,9 @@ Esta modificacion nos sirve para aprender markdown  la # es `<h1><h1/>`  de html
 
 ---
 
-
+- [x] uno
+- [ ] dos
+- [ ] tres
 
 	[gregorio fernandez](https://gregoriofer.com)
 
