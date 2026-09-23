@@ -16,7 +16,7 @@ Hemos colaborado en el proyecto:
 - Ana
 
 ---
-Esta modificacion nos sirve para aprender markdown  la # es '<H1><H1/>' de html
+Esta modificacion nos sirve para aprender markdown  la # es  de html
 
 
 ---
