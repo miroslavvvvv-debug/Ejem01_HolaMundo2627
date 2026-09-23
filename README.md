@@ -9,11 +9,15 @@ Centro de formacion GF, Valladolid
 2. iniciazarlo
 3. Hcer commit
 
+
 Hemos colaborado en el proyecto:
 Pedro
 Lucas 
 Ana
 Esta modificacion nos sirve para aprender markdown  la # es <h1><h1/> de html.
+----
+	[gregorio fernandez](https://gregoriofer.com)
+
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
