@@ -18,7 +18,13 @@ Esta modificacion nos sirve para aprender markdown  la # es <h1><h1/> de html.
 ---
 	[gregorio fernandez](https://gregoriofer.com)
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| version |modificacion |Propietario
+| ----------- | ----------- |----------- |
+1.0
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
