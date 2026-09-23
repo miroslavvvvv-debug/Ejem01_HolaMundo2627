@@ -28,19 +28,6 @@ Esta modificacion nos sirve para aprender markdown  la # es `<h1><h1/>`  de html
 - [ ] dos
 - [ ] tres
 
-[gregorio fernandez](https://gregoriofer.com)
-
-| version |modificacion |Propietario
-| ----------- | ----------- |----------- |
-1.0
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
-
 ---
 ---
 ---
