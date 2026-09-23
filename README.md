@@ -37,3 +37,13 @@ Esta modificacion nos sirve para aprender markdown  la # es `<h1><h1/>`  de html
   "age": 25
 }
 ```
+
+---
+---
+---
+---
+---
+---
+---
+---
+modificacion realizada en windows
