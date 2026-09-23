@@ -1,16 +1,20 @@
 # Ejem01_HolaMundo2627
-##Primer proyecto realizado en 
+## Primer proyecto realizado en 
 *GitHub*
 Estamos en el **Centro Gregorio Fernandez**
 Este es un promer proyecto github
 Centro de formacion GF, Valladolid
 
-1Crear el proyecto
-2iniciazarlo
-3Hcer commit
+1. Crear el proyecto
+2. iniciazarlo
+3. Hcer commit
 
-hemos colaborado en el proyecto 
-pedro
-lucas 
-ana
-esta modificacion nos sirve para aprender markdown  la # es <h1><h1/> de html
+Hemos colaborado en el proyecto:
+Pedro
+Lucas 
+Ana
+Esta modificacion nos sirve para aprender markdown  la # es <h1><h1/> de html.
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
